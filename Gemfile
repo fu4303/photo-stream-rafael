@@ -19,6 +19,8 @@ group :jekyll_plugins do
   gem "jekyll_image_processing", git: "https://github.com/benubois/jekyll_image_processing"
   gem "jekyll-tidy"
   gem "jekyll-exif-data", "~> 0.0"
+  gem "jekyll-feed", "~> 0.12"
+	gem "jekyll-minimagick"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
