@@ -24,7 +24,8 @@ _Feel free to send me your photo streams on [Twitter](https://twitter.com/maxvol
 - [maxvoltar.photo](https://maxvoltar.photo)
 - [joeyabanks.photo](https://joeyabanks.photo)
 - [jad.photos](https://jad.photos)
-- ...
+- [photos.alexbaldwin.com](https://photos.alexbaldwin.com)
+- [scotts.camera](https://scotts.camera)
 
 ## Features
 
